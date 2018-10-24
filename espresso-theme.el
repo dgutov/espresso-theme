@@ -17,7 +17,7 @@
 
 Port of the default theme for Espresso on Mac OS X.")
 
-(let ((selection-color (if (featurep 'ns) "ns_selection_color" "#C9D0D9"))
+(let ((selection-color (if (featurep 'ns) "ns_selection_bg_color" "#C9D0D9"))
       (highlight-color "#EEE00A")
       (secondary-color "#FBE9AD")
       (active-color "#EEEEEE")
