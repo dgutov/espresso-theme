@@ -94,7 +94,6 @@ Port of the default theme for Espresso on Mac OS X.")
    '(diff-added ((t (:background "#EEFFEE"))))
    '(diff-removed ((t (:background "#FFEEEE"))))
    '(diff-changed ((t (:background "#FFFFDD"))))
-   '(diff-refine-change ((t (:background "#DDDDFF"))))
 
    ;; Magit
    '(magit-diff-file-header ((t (:bold t :inherit diff-header))))
