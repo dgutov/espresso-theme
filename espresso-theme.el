@@ -90,7 +90,7 @@ Port of the default theme for Espresso on Mac OS X.")
 
    ;; Diff Mode
    '(diff-file-header ((t (:bold t :inherit diff-header))))
-   '(diff-header ((t (:background "#DDDDFF" :foreground "grey20"))))
+   '(diff-header ((t (:background "#EEEEFF" :foreground "grey20"))))
    '(diff-added ((t (:background "#EEFFEE"))))
    '(diff-removed ((t (:background "#FFEEEE"))))
    '(diff-changed ((t (:background "#FFFFDD"))))
